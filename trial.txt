@@ -1,5 +1,0 @@
-this is a trial of pushing in git
-
-after this I will pull it
-
-and merge it to master
